@@ -12,7 +12,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{ -- Send notification
 	Icon = "rbxassetid://14153130058"
 })
 
--- This obby have invisible checkpoints that check whether you cheated or not
+-- This obby has invisible checkpoints that check whether you cheated or not
 -- So the script just touch all the checkpoints and get free money lmao
 
 local obby = workspace.obby
